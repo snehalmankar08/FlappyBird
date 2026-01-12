@@ -61,4 +61,9 @@ License
 
 This project is for learning and educational purposes. 
 
+Gameplay Demo
+
+![Gameplay Preview](media/FlappyBird2-SampleScene-gif.mp4)
+
+
 
